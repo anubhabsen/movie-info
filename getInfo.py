@@ -1,6 +1,9 @@
 import urllib
 from urllib2 import Request, urlopen
 import json
+import pandas as pd
+import os
+import sys
 
 title = []
 genre = []
@@ -23,12 +26,13 @@ def get_info(name):
 		rottentomatoes_consensus.append(data1['tomatoMeter'])
 		imdb_ratings.append(data1['imdbRating'])
 
-name = raw_input("Enter the movie/show name: ")
-get_info(name)
+def main():
+    filepath = raw_input("Enter the filepath: ")
+    for file in os.listdir(filepath):
+        print file
+        get_info(file)
+    df = pd.DataFrame({'Title': title, ' Genre': genre, 'Plot': plot, 'Run Time': run_time, 'Tomatometer': rottentomatoes_consensus, 'IMDB Rating': imdb_ratings})
+    df.to_csv('movies.csv', index=False)
 
-print title
-print genre
-print plot
-print run_time
-print rottentomatoes_consensus
-print imdb_ratings
+if __name__ == "__main__":
+    main()
