@@ -2,6 +2,7 @@ import urllib
 from urllib2 import Request, urlopen
 import json
 import pandas as pd
+from guessit import guessit
 import os
 import sys
 
@@ -29,6 +30,7 @@ def get_info(name):
 def main():
     filepath = raw_input("Enter the filepath: ")
     for file in os.listdir(filepath):
+        file = guessit(file)['title']
         print file
         get_info(file)
     df = pd.DataFrame({'Title': title, ' Genre': genre, 'Plot': plot, 'Run Time': run_time, 'Tomatometer': rottentomatoes_consensus, 'IMDB Rating': imdb_ratings})
