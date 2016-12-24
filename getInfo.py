@@ -5,6 +5,8 @@ import pandas as pd
 from guessit import guessit
 import os
 import sys
+import requests
+from lxml import html
 
 title = []
 genre = []
@@ -13,8 +15,21 @@ run_time = []
 rottentomatoes_consensus = []
 imdb_ratings = []
 
+def get_imdb_id(name):
+    query = urllib.quote_plus(name)
+    url = "http://www.imdb.com/find?ref_=nv_sr_fn&q="+query+"&s=all"
+    page = requests.get(url)
+    DOM_tree = html.fromstring(page.content)
+    if "No results found for" in (DOM_tree.xpath('//h1[@class="findHeader"]/text()')[0]):
+        imdb_id = "Notfound"
+    else:
+        imdb_id = (DOM_tree.xpath('//td[@class="result_text"]//a')[0].get('href'))
+        imdb_id = imdb_id.replace('/title/','')
+        imdb_id = imdb_id.replace('/?ref_=fn_al_tt_1','')
+    return (imdb_id)
+
 def get_info(name):
-	response = urlopen(Request('https://www.omdbapi.com?t=' + urllib.quote_plus(name) + '&y&plot=short&tomatoes=true&r=json'))
+	response = urlopen(Request('https://www.omdbapi.com?i=' + urllib.quote_plus(name) + '&y&plot=short&tomatoes=true&r=json'))
 	data = response.read()
 	data1 = json.loads(data)
 	if data1['Response'] == "False":
@@ -32,7 +47,7 @@ def main():
     for file in os.listdir(filepath):
         file = guessit(file)['title']
         print file
-        get_info(file)
+        get_info(get_imdb_id(file))
     df = pd.DataFrame({'Title': title, ' Genre': genre, 'Plot': plot, 'Run Time': run_time, 'Tomatometer': rottentomatoes_consensus, 'IMDB Rating': imdb_ratings})
     df.to_csv('movies.csv', index=False)
 
