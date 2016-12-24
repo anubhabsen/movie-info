@@ -49,7 +49,7 @@ def main():
         print file
         get_info(get_imdb_id(file))
     df = pd.DataFrame({'Title': title, ' Genre': genre, 'Plot': plot, 'Run Time': run_time, 'Tomatometer': rottentomatoes_consensus, 'IMDB Rating': imdb_ratings})
-    df.to_csv('movies.csv', index=False)
+    df.to_csv('movies.csv', index=False, encoding='utf-8')
 
 if __name__ == "__main__":
     main()
