@@ -45,9 +45,13 @@ def get_info(name):
 def main():
     filepath = raw_input("Enter the filepath: ")
     for file in os.listdir(filepath):
-        file = guessit(file)['title']
         print file
-        get_info(get_imdb_id(file))
+        if(guessit(file).has_key('title')):
+            file = guessit(file)['title']
+            print "Extracted title: " + file
+            get_info(get_imdb_id(file))
+        else:
+            print "Video name not detected from filename: " + file
     df = pd.DataFrame({'Title': title, ' Genre': genre, 'Plot': plot, 'Run Time': run_time, 'Tomatometer': rottentomatoes_consensus, 'IMDB Rating': imdb_ratings})
     df.to_csv('movies.csv', index=False, encoding='utf-8')
 
