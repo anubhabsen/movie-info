@@ -1,4 +1,4 @@
- Genre,IMDB Rating,Plot,Run Time,Title,Tomatometer
+Genre,IMDB Rating,Plot,Run Time,Title,Tomatometer
 "Crime, Drama, Sci-Fi",8.3,"In future Britain, Alex DeLarge, a charismatic and psycopath delinquent, who likes to practice crimes and ultra-violence with his gang, is jailed and volunteers for an experimental aversion therapy developed by the government in an effort to solve society's crime problem - but not all goes according to plan.",136 min,A Clockwork Orange,90
 "Adventure, Drama, Sci-Fi",7.1,"A highly advanced robotic boy longs to become ""real"" so that he can regain the love of his human mother.",146 min,A.I. Artificial Intelligence,73
 "Horror, Sci-Fi",8.5,"After a space merchant vessel perceives an unknown transmission as distress call, their landing on the source moon finds one of the crew attacked by a mysterious lifeform. Continuing their journey back to Earth with the attacked crew having recovered and the critter deceased, they soon realize that its life cycle has merely begun.",117 min,Alien,97
@@ -115,3 +115,107 @@ Comedy,7.3,The cross-country adventures of two good-hearted but incredibly stupi
 "Action, Crime, Thriller",7.2,An ex-hitman comes out of retirement to track down the gangsters that took everything from him.,101 min,John Wick,85
 "Biography, Drama",7.7,"Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, but is later sued by two brothers who claimed he stole their idea, and the co-founder who was later squeezed out of the business.",120 min,The Social Network,96
 "Drama, Fantasy, Horror",6.6,"In the aftermath of a family tragedy, an aspiring author is torn between love for her childhood friend and the temptation of a mysterious outsider. Trying to escape the ghosts of her past, she is swept away to a house that breathes, bleeds - and remembers.",119 min,Crimson Peak,71
+ Genre,IMDB Rating,Plot,Run Time,Title,Tomatometer
+"Documentary, Crime",8.3,An in-depth look at the prison system in the United States and how it reveals the nation's history of racial inequality.,100 min,13th,N/A
+"Horror, Sci-Fi",8.5,"After a space merchant vessel perceives an unknown transmission as distress call, their landing on the source moon finds one of the crew attacked by a mysterious life-form, and soon realize that its life cycle has merely begun.",117 min,Alien,N/A
+"Action, Adventure, Sci-Fi",8.4,"The moon from Alien (1979) has been colonized, but contact is lost. This time, the rescue team has impressive firepower, but will it be enough?",137 min,Aliens,N/A
+"Animation, Comedy, Drama",7.3,A man crippled by the mundanity of his life experiences something out of the ordinary.,90 min,Anomalisa,N/A
+"Drama, Mystery, Sci-Fi",8.0,"When twelve mysterious spacecraft appear around the world, linguistics professor Louise Banks is tasked with interpreting the language of the apparent alien visitors.",116 min,Arrival,N/A
+"Drama, Horror, Sci-Fi",5.5,"After his friend is killed by her abusive father, the new kid in town attempts to save her by implanting robotic microchips into her brain.",91 min,Deadly Friend,N/A
+"Action, Comedy, Sci-Fi",6.6,A teen gang in South London defend their block from an alien invasion.,88 min,Attack the Block,N/A
+"Comedy, Crime",7.0,"A 1960s hipster secret agent is brought out of cryofreeze to oppose his greatest enemy in the 1990s, where his social attitudes are glaringly out of place.",89 min,Austin Powers: International Man of Mystery,N/A
+"Action, Adventure, Sci-Fi",6.7,"Fearing that the actions of Superman are left unchecked, Batman takes on the Man of Steel, while the world wrestles with what kind of a hero it really needs.",151 min,Batman v Superman: Dawn of Justice,N/A
+"Comedy, Drama, Fantasy",7.8,A puppeteer discovers a portal that leads literally into the head of movie star John Malkovich.,112 min,Being John Malkovich,N/A
+"Biography, Crime, Drama",6.9,"The true story of Whitey Bulger, the brother of a state senator and the most infamous violent criminal in the history of South Boston, who became an FBI informant to take down a Mafia family invading his turf.",123 min,Black Mass,N/A
+"Action, Crime, Drama",6.4,An ex-con reunites with his estranged wayward 17-year old daughter to protect her from drug dealers who are trying to kill her.,88 min,Blood Father,N/A
+"Documentary, Biography",7.2,"A documentary portrait that takes us into Jonathan Gold's universe to tell the improbable story of a revolution inspired by the pen, but driven by the palate.",96 min,City of Gold,N/A
+"Animation, Family, Fantasy",7.7,"An adventurous girl finds another world that is a strangely idealized version of her frustrating home, but it has sinister secrets.",100 min,Coraline,N/A
+"Drama, Fantasy, Horror",6.6,"In the aftermath of a family tragedy, an aspiring author is torn between love for her childhood friend and the temptation of a mysterious outsider. Trying to escape the ghosts of her past, she is swept away to a house that breathes, bleeds - and remembers.",119 min,Crimson Peak,N/A
+"Action, Horror, Thriller",7.4,"A nurse, a policeman, a young married couple, a salesman, and other survivors of a worldwide plague that is producing aggressive, flesh-eating zombies, take refuge in a mega Midwestern shopping mall.",101 min,Dawn of the Dead,N/A
+"Animation, Adventure, Comedy",7.7,"When a criminal mastermind uses a trio of orphan girls as pawns for a grand scheme, he finds their love is profoundly changing him for the better.",95 min,Despicable Me,N/A
+"Action, Sci-Fi",7.1,"In a violent, futuristic city where the police have the authority to act as judge, jury and executioner, a cop teams with a trainee to take down a gang that deals the reality-altering drug, SLO-MO.",95 min,Dredd,N/A
+Comedy,7.3,The cross-country adventures of two good-hearted but incredibly stupid friends.,107 min,Dumb & Dumber,N/A
+"Drama, Thriller, War",7.3,"Col. Katherine Powell, a military officer in command of an operation to capture terrorists in Kenya, sees her mission escalate when a girl enters the kill zone triggering an international dispute over the implications of modern warfare.",102 min,Eye in the Sky,N/A
+"Crime, Drama, Thriller",9.0,"Various chronicles of deception, intrigue and murder in and around frozen Minnesota. Yet all of these tales mysteriously lead back one way or another to Fargo, ND.",53 min,Fargo,N/A
+"Crime, Horror, Thriller",7.1,A punk rock band is forced to fight for survival after witnessing a murder at a neo-Nazi skinhead bar.,95 min,Green Room,N/A
+"Action, Adventure, Sci-Fi",8.1,A group of intergalactic criminals are forced to work together to stop a fanatical warrior from taking control of the universe.,121 min,Guardians of the Galaxy,N/A
+"Adventure, Comedy, Drama",7.9,A national manhunt is ordered for a rebellious kid and his foster uncle who go missing in the wild New Zealand bush.,101 min,Hunt for the Wilderpeople,N/A
+"Adventure, Comedy, Sci-Fi",6.6,"Private Joe Bauers, the definition of ""average American"", is selected by the Pentagon to be the guinea pig for a top-secret hibernation program. Forgotten, he awakes five centuries in the future. He discovers a society so incredibly dumbed down that he's easily the most intelligent person alive.",84 min,Idiocracy,N/A
+"Drama, Music",7.8,"A hip-hop mogul must choose a successor among his three sons who are battling for control over his multi-million dollar company, while his ex-wife schemes to reclaim what is hers.",42 min,Empire,N/A
+"Action, Crime, Thriller",7.2,An ex-hitman comes out of retirement to track down the gangsters that took everything from him.,101 min,John Wick,N/A
+"Animation, Adventure, Family",7.9,A young boy named Kubo must locate a magical suit of armor worn by his late father in order to defeat a vengeful spirit from the past.,101 min,Kubo and the Two Strings,N/A
+"Horror, Thriller",6.2,"The living dead have taken over the world, and the last humans live in a walled city to protect themselves as they come to grips with the situation.",93 min,Land of the Dead,N/A
+"Animation, Adventure, Comedy",7.8,"In Ancient Polynesia, when a terrible curse incurred by the Demigod Maui reaches an impetuous Chieftain's daughter's island, she answers the Ocean's call to seek out the Demigod to set things right.",107 min,Moana,N/A
+Drama,7.7,"A chronicle of the childhood, adolescence and burgeoning adulthood of a young black man growing up in a rough neighborhood of Miami.",111 min,Moonlight,N/A
+"Horror, Mystery",6.5,"A woman tries to exonerate her brother, who was convicted of murder, by proving that the crime was committed by a supernatural phenomenon.",104 min,Oculus,N/A
+"Drama, Fantasy, War",8.2,"In the falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world.",118 min,Pan's Labyrinth,N/A
+"Drama, History, Thriller",7.5,"The story of the 2013 Boston Marathon bombing and the aftermath, which includes the city-wide manhunt to find the terrorists responsible.",133 min,Patriots Day,N/A
+"Adventure, Mystery, Sci-Fi",7.0,"Following clues to the origin of mankind, a team find a structure on a distant moon, but they soon find they are not alone.",124 min,Prometheus,N/A
+"Biography, Drama, Sport",7.3,A Ugandan girl sees her world rapidly change after being introduced to the game of chess.,124 min,Queen of Katwe,N/A
+"Action, Adventure, Sci-Fi",7.1,"The USS Enterprise crew explores the furthest reaches of uncharted space, where they encounter a new ruthless enemy who puts them and everything the Federation stands for to the test.",122 min,Star Trek Beyond,N/A
+"Biography, Drama",7.7,"Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, but is later sued by two brothers who claimed he stole their idea, and the co-founder who was later squeezed out of the business.",120 min,The Social Network,N/A
+"Horror, Mystery",6.8,"A family in 1630s New England is torn apart by the forces of witchcraft, black magic and possession.",92 min,The Witch,N/A
+"Action, Comedy, Sci-Fi",7.0,Five friends who reunite in an attempt to top their epic pub crawl from twenty years earlier unwittingly become humanity's only hope for survival.,109 min,The World's End,N/A
+"Action, Drama, Horror",7.5,"While a zombie virus breaks out in South Korea, passengers struggle to survive on the train from Seoul to Busan.",118 min,Train to Busan,N/A
+"Drama, Mystery, Sci-Fi",7.2,A man learns something extraordinary about himself after a devastating accident.,106 min,Unbreakable,N/A
+Documentary,N/A,N/A,N/A,WallE,N/A
+"Action, Drama, Mystery",7.6,"In 1985 where former superheroes exist, the murder of a colleague sends active vigilante Rorschach into his own sprawling investigation, uncovering something that could completely change the course of history as we know it.",162 min,Watchmen,N/A
+Documentary,7.7,An examination of disgraced New York Congressman Anthony Weiner's mayoral campaign and today's political landscape.,96 min,Weiner,N/A
+Comedy,7.2,N/A,5 min,X-Men Apocalypse,N/A Genre,IMDB Rating,Plot,Run Time,Title,Tomatometer
+"Crime, Drama, Sci-Fi",8.3,"In future Britain, Alex DeLarge, a charismatic and psycopath delinquent, who likes to practice crimes and ultra-violence with his gang, is jailed and volunteers for an experimental aversion therapy developed by the government in an effort to solve society's crime problem - but not all goes according to plan.",136 min,A Clockwork Orange,N/A
+"Drama, Fantasy",7.5,A boy seeks the help of a tree monster to cope with his single mother's terminal illness.,108 min,A Monster Calls,N/A
+"Drama, Romance",8.4,A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.,122 min,American Beauty,N/A
+"Drama, War",7.8,"A drama based on the experiences of Agu, a child soldier fighting in the civil war of an unnamed African country.",137 min,Beasts of No Nation,N/A
+"Drama, History, Thriller",7.6,"During the Cold War, an American lawyer is recruited to defend an arrested Soviet spy in court, and then help the CIA facilitate an exchange of the spy for the Soviet captured American U2 spy plane pilot, Francis Gary Powers.",142 min,Bridge of Spies,N/A
+"Biography, Crime, Drama",8.0,"The true story of Frank Abagnale Jr. who, before his 19th birthday, successfully conned millions of dollars' worth of checks as a Pan Am pilot, doctor, and legal prosecutor.",141 min,Catch Me If You Can,N/A
+"Drama, Mystery",8.4,"Following the death of a publishing tycoon, news reporters scramble to discover the meaning of his final utterance.",119 min,Citizen Kane,N/A
+"Drama, Sci-Fi, Thriller",8.1,"A troubled teenager is plagued by visions of a man in a large rabbit suit who manipulates him to commit a series of crimes, after he narrowly escapes a bizarre accident.",113 min,Donnie Darko,N/A
+"Adventure, Family, Fantasy",7.6,The adventures of writer Newt Scamander in New York's secret community of witches and wizards seventy years before Harry Potter reads his book in school.,133 min,Fantastic Beasts and Where to Find Them,N/A
+N/A,7.4,N/A,N/A,Fantastic Mr Fox: T4 Movie Special,N/A
+"Drama, Mystery, Thriller",6.6,A divorcee becomes entangled in a missing persons investigation that promises to send shockwaves throughout her life.,112 min,The Girl on the Train,N/A
+"Action, Adventure, Drama",8.5,"When a Roman general is betrayed and his family murdered by an emperor's corrupt son, he comes to Rome as a gladiator to seek revenge.",155 min,Gladiator,N/A
+"Biography, Crime, Drama",8.7,Henry Hill and his friends work their way up through the mob hierarchy.,146 min,Goodfellas,N/A
+"Horror, Mystery, Thriller",6.7,"Twin boys move to a new home with their mother after she has face changing cosmetic surgery, but under her bandages is someone the children don't recognize.",99 min,Goodnight Mommy,N/A
+"Drama, History, War",8.2,"WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people, and becomes the first man in American history to receive the Medal of Honor without firing a shot.",139 min,Hacksaw Ridge,N/A
+"Crime, Drama, Western",7.7,A divorced father and his ex-con older brother resort to a desperate scheme in order to save their family's ranch in West Texas.,102 min,Hell or High Water,N/A
+"Adventure, Drama, Family",7.5,"In Paris in 1931, an orphan named Hugo Cabret who lives in the walls of a train station is wrapped up in a mystery involving his late father and an automaton.",126 min,Hugo,N/A
+"Adventure, Drama, War",8.3,"In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",153 min,Inglourious Basterds,N/A
+"Horror, Mystery, Thriller",6.8,A family looks to prevent evil spirits from trapping their comatose child in a realm called The Further.,103 min,Insidious,N/A
+"Comedy, Drama, Music",8.4,A jazz pianist falls for an aspiring actress in Los Angeles.,128 min,La La Land,N/A
+"Drama, Horror, Mystery",7.2,A bullied young boy befriends a young female vampire who lives in secrecy with her guardian.,116 min,Let Me In,N/A
+"Horror, Thriller",6.2,A young couple take in their two nieces only to suspect that a foreboding evil has latched itself to their family.,100 min,Mama,N/A
+Drama,8.1,An uncle is asked to take care of his teenage nephew after the boy's father dies.,137 min,Manchester by the Sea,N/A
+"Animation, Comedy, Drama",8.2,"A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York.",92 min,Mary and Max,N/A
+"Adventure, Drama, Mystery",6.7,"A father and son go on the run, pursued by the government and a cult drawn to the child's special powers.",112 min,Midnight Special,N/A
+"Horror, Mystery",6.2,An ex-cop and his family are the target of an evil force that is using mirrors as a gateway into their home.,110 min,Mirrors,N/A
+"Animation, Fantasy, Horror",8.4,"A mysterious man called the Medicine Seller travels along feudal Japan, uncovering and slaying evil spirits called ""Mononoke"".",25 min,Mononoke,N/A
+"Drama, Mystery, Sci-Fi",7.9,"Astronaut Sam Bell has a quintessentially personal encounter toward the end of his three-year stint on the Moon, where he, working alongside his computer, GERTY, sends back to Earth parcels of a resource that has helped diminish our planet's power problems.",97 min,Moon,N/A
+"Drama, Mystery, Thriller",8.0,"After a car wreck on the winding Mulholland Drive renders a woman amnesiac, she and a perky Hollywood-hopeful search for clues and answers across Los Angeles in a twisting venture beyond dreams and reality.",147 min,Mulholland Drive,N/A
+"Animation, Comedy",7.9,"After losing his mother, a young boy is sent to a foster home with other orphans his age where he begins to learn the meaning of trust and true love.",70 min,My Life as a Zucchini,N/A
+"Fantasy, Horror",8.0,Vampire Count Orlok expresses interest in a new residence and real estate agent Hutter's wife.,81 min,Nosferatu,N/A
+"Drama, Mystery, Thriller",8.4,"After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days.",120 min,Oldboy,N/A
+"Animation, Drama, Romance",7.7,A 27-year-old office worker travels to the countryside while reminiscing about her childhood in Tôkyô.,118 min,Only Yesterday,N/A
+"Horror, Mystery, Thriller",7.0,A husband and wife who recently lost their baby adopt a nine year-old girl who is not nearly as innocent as she claims to be.,123 min,Orphan,N/A
+"Adventure, Family, Fantasy",6.8,"The adventures of an orphaned boy named Pete and his best friend Elliot, who just so happens to be a dragon.",103 min,Pete's Dragon,N/A
+"Action, Adventure, Fantasy",8.0,"Blacksmith Will Turner teams up with eccentric pirate ""Captain"" Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead.",143 min,Pirates of the Caribbean: The Curse of the Black Pearl,N/A
+"Fantasy, Horror, Thriller",7.4,A family's home is haunted by a host of ghosts.,114 min,Poltergeist,N/A
+"Animation, Adventure, Comedy",7.2,"Rango is an ordinary chameleon who accidentally winds up in the town of Dirt, a lawless outpost in the Wild West in desperate need of a new sheriff.",107 min,Rango,N/A
+"Drama, Horror",8.0,"A young couple move into an apartment, only to be surrounded by peculiar neighbors and occurrences. When the wife becomes mysteriously pregnant, paranoia over the safety of her unborn child begins to control her life.",137 min,Rosemary's Baby,N/A
+Talk-Show,N/A,Film Flickers take a look at the action comedy Scott Pilgrim vs The World.,N/A,Scott Pilgrim vs the World,N/A
+"Crime, Drama, Thriller",7.1,A young woman's world unravels when a drug prescribed by her psychiatrist has unexpected side effects.,106 min,Side Effects,N/A
+"Adventure, Drama, History",7.4,"In the 17th century, two Portuguese Jesuit priests travel to Japan in an attempt to locate their mentor, who is rumored to have committed apostasy, and to propagate Catholicism.",161 min,Silence,N/A
+"Drama, Thriller, War",7.5,"In the horror of 1944 Auschwitz, a prisoner forced to burn the corpses of his own people finds moral survival upon trying to salvage from the flames the body of a boy he takes for his son.",107 min,Son of Saul,N/A
+"Horror, Thriller",7.5,"Three girls are kidnapped by a man with a diagnosed 23 distinct personalities, they must try to escape before the apparent emergence of a frightful new 24th.",117 min,Split,N/A
+"Animation, Adventure, Comedy",6.9,"Storks have moved on from delivering babies to packages. But when an order for a baby appears, the best delivery stork must scramble to fix the error by delivering the baby.",87 min,Storks,N/A
+Horror,6.9,"A father and son, both coroners, are pulled into a complex mystery while attempting to identify the body of a young woman, who was apparently harboring dark secrets.",86 min,The Autopsy of Jane Doe,N/A
+"Adventure, Family, Fantasy",6.4,"An orphan little girl befriends a benevolent giant who takes her to Giant Country, where they attempt to stop the man-eating giants that are invading the human world.",117 min,The BFG,N/A
+"Biography, Comedy, Drama",7.8,"Four denizens in the world of high-finance predict the credit and housing bubble collapse of the mid-2000s, and decide to take on the big banks for their greed and lack of foresight.",130 min,The Big Short,N/A
+"Horror, Mystery",6.4,"Three film students vanish after traveling into a Maryland forest to film a documentary on the local Blair Witch legend, leaving only their footage behind.",81 min,The Blair Witch Project,N/A
+"Drama, Fantasy, Romance",7.8,"Tells the story of Benjamin Button, a man who starts aging backwards with bizarre consequences.",166 min,The Curious Case of Benjamin Button,N/A
+"Biography, Crime, Drama",7.1,A U.S. Customs official uncovers a money laundering scheme involving Colombian drug lord Pablo Escobar.,127 min,The Infiltrator,N/A
+"Horror, Thriller",6.3,"When aspiring model Jesse moves to Los Angeles, her youth and vitality are devoured by a group of beauty-obsessed women who will take any means necessary to get what she has.",118 min,The Neon Demon,N/A
+"Horror, Mystery",5.4,"Six months after the incidents involving the lethal videotape, new clues prove that there is a new evil lurking in the darkness.",110 min,The Ring Two,N/A
+"Crime, Drama, Thriller",8.6,A young F.B.I. cadet must confide in an incarcerated and manipulative killer to receive his help on catching another serial killer who skins his victims.,118 min,The Silence of the Lambs,N/A
+Horror,7.0,"As a mother and daughter struggle to cope with the terrors of the post-revolution, war-torn Tehran of the 1980s, a mysterious evil begins to haunt their home.",84 min,Under the Shadow,N/A
+"Comedy, Drama, Romance",N/A,"Upon learning that the love of his life from long ago has Alzheimer's, an elderly widower fakes his way into her nursing home to be with her.",N/A,Remember Me,N/A
+"Horror, Drama",6.0,"A staircase leading to the dormitory of a remote boarding school usually has 28 stairs, but every so often there appears to be 29. When someone steps on the mysterious extra stair, the horror begins",97 min,Wishing Stairs,N/A
