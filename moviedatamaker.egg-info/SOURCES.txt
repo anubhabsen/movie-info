@@ -1,0 +1,7 @@
+setup.cfg
+setup.py
+moviedatamaker.egg-info/PKG-INFO
+moviedatamaker.egg-info/SOURCES.txt
+moviedatamaker.egg-info/dependency_links.txt
+moviedatamaker.egg-info/requires.txt
+moviedatamaker.egg-info/top_level.txt

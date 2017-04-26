@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: moviedatamaker
+Version: 0.0.1
+Summary: A script that looks up all movies and TV shows in a folder and gets the  genre, runtime, plot and IMDB and RottenTomatoes ratings of the movie and stores it as a csv file.
+Home-page: https://github.com/anubhabsen/movie-info
+Author: Anubhab Sen
+Author-email: anubhabsen@gmail.com
+License: BSD 2
+Description: UNKNOWN
+Keywords: movie data info information scrap imdb rottentomatoes
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 2.7
