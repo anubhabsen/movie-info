@@ -13,4 +13,4 @@ echo "Use command: python getInfo.py from this directory in the future"
 
 sleep 5
 
-python getInfo.py
+python moviedatamaker/moviedatamaker.py
